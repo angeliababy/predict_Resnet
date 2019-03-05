@@ -4,7 +4,7 @@
 
 参考文档：Deep Spatio-Temporal Residual Networks for Citywide Crowd Flows Prediction
 
-主要修改了scripts\papers\AAAI17\BikeNYC目录（ST-ResNet论文解读word）
+主要修改了scripts\papers\AAAI17\BikeNYC目录（ST-ResNet论文解读word），主要看此部分
 
 
 
